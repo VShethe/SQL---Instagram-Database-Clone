@@ -188,3 +188,7 @@
 To run the program
 
 mysq-ctl cli;
+
+Tp create Database use faker
+
+url: https://github.com/rivy/js.faker
